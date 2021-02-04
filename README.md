@@ -7,5 +7,6 @@ Foi um projeto do bootcamp da Digital Innovation - Avanade Angular Developer. T�
 ## foi utilizado o site do owl para fazer o carousel da netflix
 
 `Site para download: https://owlcarousel2.github.io/OwlCarousel2/`
+`Site para utilização das imagens: https://www.themoviedb.org/?language=pt-BR`
 
 `Para inicialização do Projeto no navegador foi utilizado o Live Server`
