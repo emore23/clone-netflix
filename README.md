@@ -1,4 +1,4 @@
-# Clone da Netflix
+# Clone Netflix
 
 ## Aqui foi utilizado HTML5, CSS3, JS e Jquery
 
